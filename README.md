@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src=https://github.com/MAli7319/MAli7319/blob/main/gif_V4.gif  width="400" height="400"/>
+</p>
 
 <!--
 - 🔭 I’m currently working on ...
